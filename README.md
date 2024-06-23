@@ -50,7 +50,7 @@
 
 ###
 
-<h2 align="left"> How To Reach Me</h2>
+<h2 align="left"> **How To Reach Me**</h2>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/shehab-ehab-5193b32b0?utm_source=share" target="_blank">
