@@ -56,7 +56,7 @@
   <a href="https://www.linkedin.com/in/shehab-ehab-5193b32b0?utm_source=share" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
-  <a href="shehabehab1029@gmail.com" target="_blank">
+  <a href="shehabeldenehab@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
   </a>
   <a href="https://wa.me/+201203379207" target="_blank">
