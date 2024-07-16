@@ -54,7 +54,7 @@
 <h2 align="left">How To Reach Me</h2>
 
 <div align="left">
-  <a href="[https://www.linkedin.com/in/shehab-ehab-5193b32b0?utm_source=share](https://www.linkedin.com/in/shehab-el-den-ehab-5193b32b0/)" target="_blank">
+  <a href="https://www.linkedin.com/in/shehab-el-den-ehab-5193b32b0/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
   <a href="shehabeldenehab@gmail.com" target="_blank">
