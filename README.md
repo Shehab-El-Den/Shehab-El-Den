@@ -14,12 +14,12 @@
 </a>
 
 <h2 align="left">How To Reach Me</h2>
-<div align="left">
+
   <a href="https://www.linkedin.com/in/shehab-el-den-ehab-5193b32b0/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="60" hspace = "10" alt="linkedin logo" />
   </a>
-  <a href="https://www.linkedin.com/in/shehab-el-den-ehab-5193b32b0/" target="_blank">
+  <a href="shehabeldenehab@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" height="60" alt="linkedin logo" />
   </a>
-</div>
+
 
