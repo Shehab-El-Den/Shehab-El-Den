@@ -12,13 +12,3 @@
 <a href="https://skillicons.dev">
    <img  top="500" height="300" width="330" src="https://skillicons.dev/icons?i=git,github,postman,androidstudio,blender,figma,firebase,gitlab,idea,mongodb,pycharm,stackoverflow,visualstudio,vscode&perline=5"/>
 </a>
-
-<h2 align="left">How To Reach Me</h2>
-  <a href="https://www.linkedin.com/in/shehab-el-den-ehab-5193b32b0/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="60" hspace = "10" alt="Linkedin Logo" />
-  </a>
-  <a href="mailto:shehabeldenehab@gmail.com?subject=Collaboration Opportunity" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" height="60" alt="Gmail Logo" />
-  </a>
-
-
