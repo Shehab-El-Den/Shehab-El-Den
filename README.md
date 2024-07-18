@@ -1,55 +1,33 @@
-<h2 align="left">Hi 👋! My name is  Shehab El-Den Ehab.<br>I am a Flutter Developer.<br>I am building the future of mobile apps.<br>I am a Student in the faculty of computer and information science<br>in the Scientific Computer Department<br>At Ain Shams University</h2>
+<h1 align="center">I'm Shehab El-Den Ehab</h1>
 
-###
+<h2 align="left">As a Flutter Developer with 4 years of experience, I specialize in creating high-quality, performant mobile apps. My expertise spans Flutter, Machine Learning, Signal Processing, Natural Language Processing, C#, SQL Server, Oracle databases, and C++ with a focus on algorithms and data structures. I am confident that my diverse skill set and deep understanding of both mobile development and backend systems make me a strong candidate for this position. I am excited about the opportunity to contribute to your team and leverage my experience to deliver innovative solutions.</h2>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src
-="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
+<h3 align="center">Languages and Frameworks</h3>
 
-###
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dart,flutter,java,kotlin,gradle,py,pkl,c,cpp,cs,dotnet,scala,ts,js,sqlite&perline=5"/>
+  </a>
+</p>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Shehab611&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shehab611&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="250" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shehab611&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+<h3 align="center">Tools</h3>
 
-###
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,postman,androidstudio,blender,figma,firebase,gitlab,idea,mongodb,pycharm,stackoverflow,visualstudio,vscode&perline=5"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="shehabeldenehab@gmail.com" target="_blank">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=gmail&perline=5"/>
+  </a>
+  </a>
+
+</p>
+
+
 
 <h2 align="left">How To Reach Me</h2>
 
@@ -62,4 +40,4 @@
   </a>
 </div>
 
-###
+
