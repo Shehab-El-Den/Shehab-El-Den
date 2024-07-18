@@ -6,11 +6,11 @@
 
 <h3 align="center">Languages, Frameworks and Tools</h3>
 <a href="https://skillicons.dev">
-  <img  top="500" height="300" width="400" hspace="25" src="https://skillicons.dev/icons?i=dart,flutter,java,kotlin,gradle,py,pkl,c,cpp,cs,dotnet,scala,ts,js,sqlite&perline=5"/>
+  <img  top="500" height="300" width="300" hspace="25" src="https://skillicons.dev/icons?i=dart,flutter,java,kotlin,gradle,py,pkl,c,cpp,cs,dotnet,scala,ts,js,sqlite&perline=5"/>
 </a>
 
 <a href="https://skillicons.dev">
-   <img  top="500" height="300" width="400" src="https://skillicons.dev/icons?i=git,github,postman,androidstudio,blender,figma,firebase,gitlab,idea,mongodb,pycharm,stackoverflow,visualstudio,vscode&perline=5"/>
+   <img  top="500" height="300" width="300" src="https://skillicons.dev/icons?i=git,github,postman,androidstudio,blender,figma,firebase,gitlab,idea,mongodb,pycharm,stackoverflow,visualstudio,vscode&perline=5"/>
 </a>
 
 <h2 align="left">How To Reach Me</h2>
