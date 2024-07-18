@@ -17,7 +17,7 @@
   <a href="https://www.linkedin.com/in/shehab-el-den-ehab-5193b32b0/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="60" hspace = "10" alt="Linkedin Logo" />
   </a>
-  <a href="mailto:shehabeldenehab@gmail.com" target="_blank">
+  <a href="shehabeldenehab@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" height="60" alt="Gmail Logo" />
   </a>
 
