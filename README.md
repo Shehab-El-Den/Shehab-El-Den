@@ -23,16 +23,3 @@
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,androidstudio,vscode,visualstudio,pycharm,idea,firebase,mongodb,sqlite,figma,postman,stackoverflow,blender&perline=6"/>
 </a>
-
----
-
-## 📊 GitHub Stats
-![Shehab's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shehab611&show_icons=true&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Shehab611&theme=radical&hide_border=true)
-
----
-
-## 📫 Connect with Me
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/shehab-el-den-ehab-5193b32b0)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shehabeldenehab@gmail.com)
