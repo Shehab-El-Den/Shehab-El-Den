@@ -29,13 +29,42 @@
 ### Albiaa
 [![Google Play](https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=googleplay)](https://play.google.com/store/apps/details?id=com.mohamed_helicopter.albaiaa)
 <!-- [![App Store](https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/app/idYOUR_APP_ID) --> 
-🛒 An E-Commerce Multi-vendor app with Laravel as a backend.
+🛒 An E-Commerce Multi-vendor app.
 
 ---
 ### Albiaa Vendor
-[<img src="https://play-lh.googleusercontent.com/pm7v7Pwn3bWfs8K1s4wQqjpoGzF0HuRfJz_ZhC9RnybX4jfd16SopGhcx34-6ehx6w=s64" alt="App Icon" width="64"/>](https://play.google.com/store/apps/details?id=com.mohamed_helicopter.albaiaavendors)
-
+[![Google Play](https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=googleplay)](https://play.google.com/store/apps/details?id=com.mohamed_helicopter.albaiaavendors)
 <!-- [![App Store](https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/app/idYOUR_APP_ID) --> 
-🛒 Vendors App For Albiaa with Laravel as a backend.
+🛒 Vendors App For Albiaa.
+
+---
+### El Wakeel Company
+[![Google Play](https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=googleplay)](https://play.google.com/store/apps/details?id=com.mohamed_helicopter.almandub)
+<!-- [![App Store](https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/app/idYOUR_APP_ID) --> 
+🛒 E-commerce app for a single vendor.
+
+---
+### Axel Cosmitics
+[![Google Play](https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=googleplay)](https://play.google.com/store/apps/details?id=com.ashalpro.axelcosmetics)
+<!-- [![App Store](https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/app/idYOUR_APP_ID) --> 
+🛒 E-commerce App for cosmetics.
+
+---
+### Click Car Care
+[![Google Play](https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=googleplay)](https://play.google.com/store/apps/details?id=com.clickcarcare.clickcarcare)
+<!-- [![App Store](https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/app/idYOUR_APP_ID) --> 
+🚘 App for easy car service selection.
+
+---
+### GM ERP
+[![Google Play](https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=googleplay)](https://play.google.com/store/apps/details?id=com.ashalpos.gmerp)
+<!-- [![App Store](https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/app/idYOUR_APP_ID) --> 
+💻 ERP App for Axel Company.
+
+---
+### Tabadil
+[![Google Play](https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=googleplay)](https://play.google.com/store/apps/details?id=com.tabadil.app.tabadil&pli=1)
+<!-- [![App Store](https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/app/idYOUR_APP_ID) --> 
+🔄 App for exchanging items for free.
 
 ---
