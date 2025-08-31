@@ -28,7 +28,7 @@
 
 ## 📱 Published Apps
 
-### Albiaa [<img src="[ICON_URL_1](https://play-lh.googleusercontent.com/C49K-3TC7Syse_q0c4hEjLMOzQ1i3xyN_TViEwIIcGk-EJAaztq8B3lFQrZmEhyOHxmPCAYjafeV6a3qhO1jrc0=w240-h480-rw)" width="80"/>]
+### Albiaa [<img src="https://play-lh.googleusercontent.com/C49K-3TC7Syse_q0c4hEjLMOzQ1i3xyN_TViEwIIcGk-EJAaztq8B3lFQrZmEhyOHxmPCAYjafeV6a3qhO1jrc0=w240-h480-rw" width="80"/>]
 [![Google Play](https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=googleplay)](https://play.google.com/store/apps/details?id=com.mohamed_helicopter.albaiaa)
 <!-- [![App Store](https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/app/idYOUR_APP_ID) --> 
 🛒 An E-Commerce Multi-vendor app.
