@@ -32,13 +32,10 @@
 🛒 An E-Commerce Multi-vendor app with Laravel as a backend.
 
 ---
-### موردين البياع  
-[![Google Play](https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=googleplay)](https://play.google.com/store/apps/details?id=com.mohamed_helicopter.albaiaavendors "Open موردين البياع on Google Play")  
-
-<img src="https://play-lh.googleusercontent.com/ACTUAL_ICON_ID=w240-h480-rw" width="120" alt="موردين البياع App Icon"/>
+### Albiaa Vendor
+[<img src="https://play-lh.googleusercontent.com/pm7v7Pwn3bWfs8K1s4wQqjpoGzF0HuRfJz_ZhC9RnybX4jfd16SopGhcx34-6ehx6w=s64" alt="App Icon" width="64"/>](https://play.google.com/store/apps/details?id=com.mohamed_helicopter.albaiaavendors)
 
 <!-- [![App Store](https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/app/idYOUR_APP_ID) --> 
 🛒 Vendors App For Albiaa with Laravel as a backend.
 
 ---
-
