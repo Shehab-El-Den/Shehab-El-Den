@@ -23,3 +23,14 @@
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,androidstudio,vscode,visualstudio,pycharm,idea,firebase,mongodb,sqlite,figma,postman,stackoverflow,blender&perline=6"/>
 </a>
+
+## 📱 Published Apps
+
+### MyTour Guide
+[![Google Play](https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=googleplay)](https://play.google.com/store/apps/details?id=YOUR_APP_ID)
+[![App Store](https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/app/idYOUR_APP_ID)  
+🗺️ A tourism map app with Firebase Auth, routing, heat maps, and suggested travel plans.
+
+---
+
+
