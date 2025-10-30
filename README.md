@@ -30,13 +30,13 @@
 
 ### Albiaa 
 [![Google Play](https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=googleplay)](https://play.google.com/store/apps/details?id=com.mohamed_helicopter.albaiaa)
-<!-- [![App Store](https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/app/idYOUR_APP_ID) --> 
+[![App Store](https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/eg/app/%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D8%B9/id6749823719)
 🛒 An E-Commerce Multi-vendor app.
 
 ---
 ### Albiaa Vendor
 [![Google Play](https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=googleplay)](https://play.google.com/store/apps/details?id=com.mohamed_helicopter.albaiaavendors)
-<!-- [![App Store](https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/app/idYOUR_APP_ID) --> 
+[![App Store](https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/eg/app/%D9%85%D9%88%D8%B1%D8%AF%D9%8A%D9%86-%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D8%B9/id6750769926)
 🛒 Vendors App For Albiaa.
 
 ---
