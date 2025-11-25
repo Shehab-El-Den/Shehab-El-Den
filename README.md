@@ -44,10 +44,22 @@
 ---
 ### El Wakeel Company
 [![Google Play](https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=googleplay)](https://play.google.com/store/apps/details?id=com.mohamed_helicopter.almandub)
- [![App Store](https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/eg/app/%D8%B4%D8%B1%D9%83%D8%A9-%D8%A7%D9%84%D9%88%D9%83%D9%8A%D9%84/id6751055906) 
+[![App Store](https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/eg/app/%D8%B4%D8%B1%D9%83%D8%A9-%D8%A7%D9%84%D9%88%D9%83%D9%8A%D9%84/id6751055906) 
  
 🛒 E-commerce app for a single vendor.
 
+---
+### Amlood 
+[![Google Play](https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=googleplay)](https://play.google.com/store/apps/details?id=com.amlood.app)
+<!-- [![App Store](https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/app/idYOUR_APP_ID) --> 
+
+Mental Health Management App.
+---
+### Amlood Consultant
+[![Google Play](https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=googleplay)](https://play.google.com/store/apps/details?id=com.amlood.consultant)
+<!-- [![App Store](https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/app/idYOUR_APP_ID) --> 
+
+Mental Health Consultant Management App.
 ---
 ### Axel Cosmitics
 [![Google Play](https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=googleplay)](https://play.google.com/store/apps/details?id=com.ashalpro.axelcosmetics)
