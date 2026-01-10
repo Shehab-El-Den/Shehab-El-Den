@@ -4,8 +4,8 @@
 ---
 
 ## 🚀 About Me
-- 📱 **Flutter Developer** with **5 years of experience**
-- 🏆 Published **7 apps on Google Play** & **4 apps on App Store**
+- 📱 **Flutter Developer** with **4+ years of experience**
+- 🏆 Published **9 apps on Google Play** & **4 apps on App Store**
 - 🔬 Skilled in **Machine Learning, NLP, Signal Processing**
 - 🛠️ Strong background in **C#, C++, SQL Server, Oracle**
 - ⚡ Passionate about **algorithms, data structures, and performance optimization**
