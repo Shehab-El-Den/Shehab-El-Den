@@ -137,10 +137,23 @@
 
 ---
 ### Axel Cosmitics
+#### 🛒 E-commerce App for cosmetics.
+- State Management: Provider pattern for handling app state across features, using ChangeNotifierProvider and Consumer widgets for reactive UI updates.
+- Networking: Dio for API calls, with error handling, interceptors, and HTTP request management across auth, product, and order modules.
+- Data Persistence: Shared preferences for user authentication data, settings, and local caching; integrated with secure data handling in auth and profile features.
+- Image Handling: Cached network images, image picking from gallery/camera, and photo viewing with zoom; implemented in product details, profile, and chat features.
+- Platform Integration: URL launching for external links, permission handling for camera/storage, geolocation services, Google Maps integration, and in-app webviews for payments.
+- UI Components: Carousel sliders for banners/products, rating bars for reviews, shimmer loading effects for data fetching, and custom widgets for grids, dialogs, and bottom sheets.
+- Push Notifications: Firebase Messaging for remote notifications and flutter_local_notifications for local alerts, with background handling and custom notification bodies.
+- Authentication & Security: Phone/email-based login with OTP verification via PIN code fields, social logins (Google, Facebook, Apple), and password management in auth screens.
+- Order Management & Reservations: Place and manage product orders, order history, tracking, and reservations in cart/checkout features with real-time status updates.
+- Checkout & Payments: Integrated checkout process with WebView-based payment gateways (e.g., digital payments), offline payment options, and wallet funding.
+- Localization & Theming: Multi-language support (English/Arabic) using intl and flutter_localizations, with dark/light theme switching and custom color schemes.
+- Database & Caching: Local database management (likely with sqflite or similar) for offline data, combined with API caching for products and banners.
+- Additional Integrations: Firebase for notifications and analytics, Google Maps for location-based services, file downloading for media, and emoji picker for chat interactions.
+
 [![Google Play](https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=googleplay)](https://play.google.com/store/apps/details?id=com.ashalpro.axelcosmetics)
 <!-- [![App Store](https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/app/idYOUR_APP_ID) --> 
-🛒 E-commerce App for cosmetics.
-
 ---
 ### Click Car Care
 
@@ -162,12 +175,30 @@
 <!-- [![App Store](https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/app/idYOUR_APP_ID) --> 
 ---
 ### GM ERP
+
+#### 💻 ERP App for Axel Company.
+
+- State Management: Provider Pattern for managing app state across sales, purchases, and inventory features.
+- Networking: Dio and HTTP packages for API calls to ERP backend, with error handling and response caching.
+- Data Persistence: Shared preferences for user settings and Sqflite for local database storage of sales, purchases, and contacts.
+- Image Handling: Cached network images for product displays, image picking for uploads, and compression via image processing libraries.
+- Platform Integration: URL launching for external links, device geolocation and connectivity checks, Google Maps integration, and video player for media content.
+- UI Components: Lottie animations for loading states, SVG support for icons, shimmer effects with Flutter Spinkit, carousel sliders in product views, and rating bars for product feedback.
+- Push Notifications: Firebase Core for backend notifications and local notification management via API polling.
+- Authentication & Security: Token-based login via OAuth, user session management, and secure API headers for data protection.
+- Inventory Management: Product stock tracking, barcode scanning with ZXing, and real-time inventory updates.
+- Sales & Checkout: Integrated sales process with payment methods, invoice generation in PDF, and printing support.
+- Reporting & Analytics: Profit/loss reports, sales analytics, and data export to PDF with table sticky headers for detailed views.
+- Localization & Theming: Multi-language support (English, Arabic, German, French, Spanish, Turkish, Indonesian, etc.), dark/light themes with Google Fonts.
+- Build Flavors: Separate configurations for development, staging, and production environments via Flutter build modes.
+
 [![Google Play](https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=googleplay)](https://play.google.com/store/apps/details?id=com.ashalpos.gmerp)
 <!-- [![App Store](https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/app/idYOUR_APP_ID) --> 
-💻 ERP App for Axel Company.
 
 ---
 ### Tabadil
+#### 🔄 App for exchanging items for free.
+
 [![Google Play](https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=googleplay)](https://play.google.com/store/apps/details?id=com.tabadil.app.tabadil&pli=1)
 <!-- [![App Store](https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/app/idYOUR_APP_ID) --> 
-🔄 App for exchanging items for free.
+
