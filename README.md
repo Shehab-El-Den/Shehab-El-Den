@@ -74,10 +74,27 @@
 
 ---
 ### El Wakeel Company
+
+#### 🛒 E-commerce app for a single vendor.
+
+- State Management: Provider pattern for handling app state across features like authentication, cart, orders, and notifications.
+- Networking: Dio for API calls with error handling, caching, and HTTP overrides for secure connections.
+- Data Persistence: Shared preferences for storing user data, login credentials, and app settings.
+- Image Handling: Cached network images for efficient loading, image picking from gallery/camera, and photo viewing with zoom.
+- Platform Integration: URL launching for external links, device info retrieval, webviews for in-app browsing, and in-app webviews for payment gateways.
+- UI Components: Carousel sliders for banners and products, rating bars for product reviews, shimmer effects for loading states, and custom animations.
+- Push Notifications: Firebase Messaging for remote notifications and local notifications for scheduled alerts.
+- Authentication & Security: Phone and email-based login with OTP verification, password change, and secure session management.
+- Checkout & Payments: Integrated checkout process with cart management, coupon application, and WebView-based payment gateways (e.g., bkash, fawry, liqpay).
+- Localization & Theming: Multi-language support (English and Arabic), dark/light theme switching, and RTL/LTR layout support.
+- Maps & Location: Google Maps integration for address selection, geocoding, geolocation services, and places autocomplete.
+- Chat & Communication: Real-time chat system for customer support and seller communication.
+- E-commerce Features: Product catalog with categories, search, wishlist, compare products, flash deals, coupons, and order tracking.
+- Additional Integrations: Barcode scanning, speech-to-text for search, file downloading, sharing, and in-app updates.
+
+
 [![Google Play](https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=googleplay)](https://play.google.com/store/apps/details?id=com.mohamed_helicopter.almandub)
 [![App Store](https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/eg/app/%D8%B4%D8%B1%D9%83%D8%A9-%D8%A7%D9%84%D9%88%D9%83%D9%8A%D9%84/id6751055906) 
- 
-🛒 E-commerce app for a single vendor.
 
 ---
 ### Amlood 
@@ -126,10 +143,23 @@
 
 ---
 ### Click Car Care
+
+#### 🚘 App for easy car service selection.
+
+- State Management: Implemented BLoC pattern using Flutter_bloc for managing app state across features like authentication, home, account, notifications, booking details, and checkout.
+- Networking: Utilized Dio for API calls with a custom DioClient, including error handling via ApiResponseHandler, logging interceptor, and timeout configurations.
+- Data Persistence: Employed Shared Preferences for storing user data such as tokens and theme preferences.
+- Image Handling: Integrated Cached Network Image for efficient image loading, Image Picker for selecting images from gallery/camera, with support for image display in features like account and onboarding.
+- Platform Integration: Incorporated URL Launcher for opening external links, Device Preview for responsive design testing, and Flutter HTML for rendering web content.
+- UI Components: Developed Carousel Sliders for onboarding and home screens, Shimmer effects for loading states, and custom widgets like Custom Shimmer and Custom Snack Bar.
+- Authentication & Security: Built phone/email-based login with OTP verification using intl_phone_number_input and pinput, including password change functionality in the account feature.
+- Session Booking & Reservations: Created booking details feature for managing consultation sessions and reservations, with map integration using Flutter Map, Geolocator, and Geocoding for location services.
+- Checkout & Payments: Implemented checkout process with repository handling for payment flows.
+- Localization & Theming: Added multi-language support (English/Arabic) with flutter_localizations and asset-based JSON files, along with dark/light theme switching using ThemeMode and AppTheme.
+- Additional Features: Voice service integration with voice_note_kit, push notifications via API-fetched data in notifications feature, and dependency injection using Get It.
+
 [![Google Play](https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=googleplay)](https://play.google.com/store/apps/details?id=com.clickcarcare.clickcarcare)
 <!-- [![App Store](https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/app/idYOUR_APP_ID) --> 
-🚘 App for easy car service selection.
-
 ---
 ### GM ERP
 [![Google Play](https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=googleplay)](https://play.google.com/store/apps/details?id=com.ashalpos.gmerp)
