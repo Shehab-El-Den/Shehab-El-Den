@@ -42,7 +42,7 @@ A video-first discovery app. Users browse places through short videos and redeem
 
 **Tech:** Flutter · Riverpod · MVVM · ExoPlayer (native) · Deep links · GitHub Actions · Fastlane
 
-<a href="https://play.google.com/store/apps/details?id=com.incube.kayefapp"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get it on Google Play"></a><br>
+<a href="https://play.google.com/store/apps/details?id=com.incube.kayefapp"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get it on Google Play"></a>
 <a href="https://apps.apple.com/eg/app/id6608980529"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="Download on the App Store"></a>
 
 ---
@@ -57,7 +57,7 @@ A video-first discovery app. Users browse places through short videos and redeem
 
 **Tech:** Flutter · Kotlin/Swift platform views · DRM · Riverpod · StoreKit · Play Billing
 
-<a href="https://play.google.com/store/apps/details?id=com.incube.seen2"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get it on Google Play"></a><br>
+<a href="https://play.google.com/store/apps/details?id=com.incube.seen2"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get it on Google Play"></a>
 <a href="https://apps.apple.com/eg/app/id6737268389"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="Download on the App Store"></a>
 
 ---
@@ -72,7 +72,7 @@ A video-first discovery app. Users browse places through short videos and redeem
 
 **Tech:** Flutter · WebSockets (Reverb) · Payments · i18n/RTL · Fastlane
 
-<a href="https://play.google.com/store/apps/details?id=com.zefaaf.zefaaf"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get it on Google Play"></a><br>
+<a href="https://play.google.com/store/apps/details?id=com.zefaaf.zefaaf"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get it on Google Play"></a>
 <a href="https://apps.apple.com/eg/app/id6747707022"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="Download on the App Store"></a>
 
 ---
@@ -89,11 +89,11 @@ I'm the sole developer of both apps.
 **Tech:** Flutter · Deep links · Video upload pipeline · FCM
 
 **Squad**<br>
-<a href="https://play.google.com/store/apps/details?id=com.mohamed_helicopter.squad"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get it on Google Play"></a><br>
+<a href="https://play.google.com/store/apps/details?id=com.mohamed_helicopter.squad"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get it on Google Play"></a>
 <a href="https://apps.apple.com/eg/app/id6756811679"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="Download on the App Store"></a>
 
 **Squad Player**<br>
-<a href="https://play.google.com/store/apps/details?id=com.mohamed_helicopter.squad_player"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get it on Google Play"></a><br>
+<a href="https://play.google.com/store/apps/details?id=com.mohamed_helicopter.squad_player"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get it on Google Play"></a>
 <a href="https://apps.apple.com/eg/app/id6756811939"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="Download on the App Store"></a>
 
 ---
@@ -114,11 +114,11 @@ I built the full system: a Laravel backend plus two Flutter apps.
 **Tech:** Flutter · Laravel 12 · Livewire · REST APIs · FCM · GPS
 
 **Passenger**<br>
-<a href="https://play.google.com/store/apps/details?id=tech.brmja.meshwarapp"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get it on Google Play"></a><br>
+<a href="https://play.google.com/store/apps/details?id=tech.brmja.meshwarapp"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get it on Google Play"></a>
 <a href="https://apps.apple.com/eg/app/id6782609278"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="Download on the App Store"></a>
 
 **Supervisor**<br>
-<a href="https://play.google.com/store/apps/details?id=tech.brmja.meshwar.driver"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get it on Google Play"></a><br>
+<a href="https://play.google.com/store/apps/details?id=tech.brmja.meshwar.driver"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get it on Google Play"></a>
 <a href="https://apps.apple.com/eg/app/id6782851511"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="Download on the App Store"></a>
 
 ---
@@ -145,11 +145,11 @@ I built the full system: a Laravel backend plus two Flutter apps.
 **Tech:** Flutter · GetX · Laravel · FCM · 4 languages (RTL)
 
 🛍️ **Customer app:**<br>
-<a href="https://play.google.com/store/apps/details?id=com.mohamed_helicopter.albaiaa"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get it on Google Play"></a><br>
+<a href="https://play.google.com/store/apps/details?id=com.mohamed_helicopter.albaiaa"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get it on Google Play"></a>
 <a href="https://apps.apple.com/eg/app/%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D8%B9/id6749823719"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="Download on the App Store"></a>
 
 🏪 **Vendor app:**<br>
-<a href="https://play.google.com/store/apps/details?id=com.mohamed_helicopter.albaiaavendors"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get it on Google Play"></a><br>
+<a href="https://play.google.com/store/apps/details?id=com.mohamed_helicopter.albaiaavendors"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get it on Google Play"></a>
 <a href="https://apps.apple.com/eg/app/id6750769926"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="Download on the App Store"></a>
 
 ---
@@ -164,11 +164,11 @@ I built the full system: a Laravel backend plus two Flutter apps.
 **Tech:** Flutter · BLoC · Firebase · Checkout
 
 🧑 **Client app:**<br>
-<a href="https://play.google.com/store/apps/details?id=com.amlood.app"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get it on Google Play"></a><br>
+<a href="https://play.google.com/store/apps/details?id=com.amlood.app"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get it on Google Play"></a>
 <a href="https://apps.apple.com/eg/app/id6624304969"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="Download on the App Store"></a>
 
 🩺 **Consultant app:**<br>
-<a href="https://play.google.com/store/apps/details?id=com.amlood.consultant"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get it on Google Play"></a><br>
+<a href="https://play.google.com/store/apps/details?id=com.amlood.consultant"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get it on Google Play"></a>
 <a href="https://apps.apple.com/eg/app/id6754966302"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="Download on the App Store"></a>
 
 ---
@@ -179,12 +179,13 @@ When an app needs it, I build or extend the backend myself.
 
 | Project | Stack | What I built |
 |---|---|---|
+| ⚽ **Squad** | Node.js · Express · MySQL · Redis/Bull | Backend for both Squad apps: JWT auth with WhatsApp OTP and phone normalization, an ffmpeg video pipeline (one 720p encode, background jobs) for reels, a football predictions competition with exact/outcome scoring and penalty shoot-outs fed by API-Football and TheSportsDB, leaderboards, FCM push, share-link preview pages with app-link verification, and an admin dashboard (VIP positions, post moderation, feature flags, app-update config) |
 | 🚌 **Meshwar El Assema** | Laravel 12 · Livewire | Booking engine (prorated seats, vacations, date-scoped cancellations), server-timed trips, targeted push, Livewire admin panel, 26 feature tests |
 | 🛒 **4YouMart** | Laravel · GitHub Actions | Idempotent bulk product import, POS barcode and stock-in, profit-margin report, hardened database access, automated SSH deploys |
 | 🏪 **Albiaa** | Laravel 10 | Governorate-based delivery zones API, order status notifications, returned-items flow |
 | 🎓 **Campus guide CMS** | Supabase · Flutter Web | Content dashboard with row-level security (RLS), media management and bilingual chatbot Q&A, powering a companion mobile app |
 
-**Backend skills:** REST API design · Laravel (Eloquent, Livewire, Reverb) · Supabase (Postgres, RLS) · Firebase · Node.js · Feature testing · CI/CD deploys
+**Backend skills:** REST API design · Laravel (Eloquent, Livewire, Reverb) · Node.js (Express, Bull queues) · Supabase (Postgres, RLS) · Firebase · Feature testing · CI/CD deploys
 
 ---
 
@@ -194,8 +195,8 @@ When an app needs it, I build or extend the backend myself.
 |---|---|---|---|---|
 | 🏷️ **Alsemsar** | Classifieds marketplace | Phone + OTP login rewrite, cleaned-up codebase without ads and IAP | <a href="https://play.google.com/store/apps/details?id=com.mohamed_helicopter.alsemsar"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white" alt="Get it on Google Play"></a> | — |
 | 📺 **Seen TV** | Streaming app for TV (React Native) | Moved releases off EAS to Gradle and the Play Developer API; environment-based config | <a href="https://play.google.com/store/apps/details?id=com.incube.seen.tv"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white" alt="Get it on Google Play"></a> | Not published |
-| 🎓 **Signify (campus guide)** | University campus guide app + CMS | Supabase dashboard with RLS, media and bilingual chatbot Q&A | {{SIGNIFY_PLAY}} | {{SIGNIFY_APPSTORE}} |
-| 🔎 **InstaSearch** | Branch and service finder | Offline analytics queue with batched sending; branch-aware maps | {{INSTASEARCH_PLAY}} | {{INSTASEARCH_APPSTORE}} |
+| 🎓 **Signify (campus guide)** | University campus guide app + CMS | Supabase dashboard with RLS, media and bilingual chatbot Q&A | <a href="https://play.google.com/store/apps/details?id=com.ainshamscampus.campus_app"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white" alt="Get it on Google Play"></a> | Not published |
+| 🔎 **InstaSearch** | Branch and service finder | Offline analytics queue with batched sending; branch-aware maps | Not published | Not published |
 | 🛍️ **El Wakeel** | E-commerce app | Real-time chat, barcode scanning, speech-to-text search, Google Maps delivery tracking | <a href="https://play.google.com/store/apps/details?id=com.mohamed_helicopter.almandub"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white" alt="Get it on Google Play"></a> | <a href="https://apps.apple.com/eg/app/%D8%B4%D8%B1%D9%83%D8%A9-%D8%A7%D9%84%D9%88%D9%83%D9%8A%D9%84/id6751055906"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white" alt="Download on the App Store"></a> |
 | 💼 **GM ERP** | Enterprise resource planning | Dart Isolates for **70% faster** data processing; PDF generation and barcode scanning | <a href="https://play.google.com/store/apps/details?id=com.ashalpos.gmerp"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white" alt="Get it on Google Play"></a> | — |
 | 🚗 **Click Car Care** | Car service booking | Map-based booking, OTP login, voice-to-text service requests (mentored the team) | <a href="https://play.google.com/store/apps/details?id=com.clickcarcare.clickcarcare"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white" alt="Get it on Google Play"></a> | <a href="https://apps.apple.com/eg/app/id6775898329"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white" alt="Download on the App Store"></a> |
