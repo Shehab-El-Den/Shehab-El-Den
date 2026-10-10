@@ -23,7 +23,7 @@ I'm a Senior Flutter Developer at **Incube Venture Studio**. I've shipped produc
 - 📱 **19+ published apps** on Google Play and the App Store
 - 🎬 **Native video:** an ExoPlayer/AVPlayer DRM player with PiP, AirPlay and Cast, plus a decoder-aware reels engine
 - 💳 **Payments:** Stripe, PayPal, Mollie, Pay.nl, Checkout, Tap, StoreKit and Play Billing
-- 🧪 **Testing:** 600+ test files written in 2026, including live API contract tests
+- 🧪 **Testing:** 3500+ test files written in 2026, including live API contract tests
 - ⚙️ **CI/CD:** multi-flavor pipelines with GitHub Actions, Fastlane and Xcode Cloud
 - 🧩 **Backend when needed:** Laravel 12 + Livewire, Node.js, Supabase and Firebase
 
