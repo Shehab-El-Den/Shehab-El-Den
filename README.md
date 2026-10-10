@@ -35,7 +35,7 @@ I'm a Senior Flutter Developer at **Incube Venture Studio**. I've shipped produc
 A video-first discovery app. Users browse places through short videos and redeem offers via QR codes.
 - Rebuilt reels playback around an **LRU controller pool, serial decoder init, and a decoder budget**. Feeds no longer exhaust hardware decoders on low-end Android devices.
 - Offers wallet with QR redemption, lucky draws, and a lucky wheel. A companion merchant app scans and redeems.
-- Migrated to **feature-first MVVM with Riverpod**, with 140+ test files including live API contract tests.
+- Migrated to **feature-first MVVM with Riverpod**, with 1500+ test files including live API contract tests.
 - **4-flavor CI/CD:** GitHub Actions, Fastlane, and Xcode Cloud.
 
 **Top features:** 📹 Short video reels of places · 🎁 Offers wallet with QR redemption · 🍀 Lucky draws · 🔗 Shareable deep links · 🏪 Merchant app for scanning and redeeming offers
