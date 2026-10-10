@@ -13,11 +13,11 @@
 
 ## About me
 
-I'm a Senior Flutter Developer at **Incube Venture Studio**. I've been shipping production Flutter apps since 2021, mostly in streaming, marketplaces, mobility and social.
+I'm a Senior Flutter Developer at **Incube Venture Studio**. I've shipped production Flutter apps since 2021, mostly in streaming, marketplaces, mobility, and social.
 
 - 🎞️ Native players and decoders
 - 💰 Payments that must never double-charge
-- 💬 Realtime chat
+- 💬 Real-time chat
 - 🚀 Test suites and pipelines that let a small team release every week
 
 - 📱 **19+ published apps** on Google Play and the App Store
@@ -32,11 +32,11 @@ I'm a Senior Flutter Developer at **Incube Venture Studio**. I've been shipping 
 ## Featured apps
 
 ### 🎬 Kayef: places, video reels and offers
-A video-first discovery app. Users browse places through short videos and redeem offers by QR.
-- Rebuilt reels playback around an **LRU controller pool, serial decoder init and a decoder budget**. Feeds no longer exhaust hardware decoders on low-end Android devices.
-- Offers wallet with QR redemption, lucky draws and a lucky wheel. A companion merchant app scans and redeems.
+A video-first discovery app. Users browse places through short videos and redeem offers via QR codes.
+- Rebuilt reels playback around an **LRU controller pool, serial decoder init, and a decoder budget**. Feeds no longer exhaust hardware decoders on low-end Android devices.
+- Offers wallet with QR redemption, lucky draws, and a lucky wheel. A companion merchant app scans and redeems.
 - Migrated to **feature-first MVVM with Riverpod**, with 140+ test files including live API contract tests.
-- **4-flavor CI/CD:** GitHub Actions, Fastlane and Xcode Cloud.
+- **4-flavor CI/CD:** GitHub Actions, Fastlane, and Xcode Cloud.
 
 **Top features:** 📹 Short video reels of places · 🎁 Offers wallet with QR redemption · 🍀 Lucky draws · 🔗 Shareable deep links · 🏪 Merchant app for scanning and redeeming offers
 
@@ -63,9 +63,9 @@ A video-first discovery app. Users browse places through short videos and redeem
 ---
 
 ### 💬 Zefaaf: matchmaking platform (33 languages)
-- **Realtime chat** on Laravel Reverb: typed events, read receipts, presence, groups, call logs and push deep links.
+- ** Real-time chat** on Laravel Reverb: typed events, read receipts, presence, groups, call logs and push deep links.
 - **Payments:** Stripe, PayPal, Mollie, Pay.nl and Rewaq, plus App Store offer codes and VIP plan gating.
-- Rebuilt onboarding, OTP signup, home and stories for 2.0.
+- Rebuilt onboarding, OTP signup, home, and stories for 2.0.
 - **420 test files** on shared harnesses. Moved from `.env` to compile-time flavors with GitHub Actions and Fastlane.
 
 **Top features:** 💬 Live chat with seen and online status · 👥 Group and support chats · 📖 Stories and success stories · 📲 OTP signup · 👑 VIP plans · 🌍 33 languages
@@ -101,7 +101,7 @@ I'm the sole developer of both apps.
 ### 🚌 Meshwar El Assema: bus-subscription platform
 I built the full system: a Laravel backend plus two Flutter apps.
 - **Backend (Laravel 12 + Livewire):**
-  - booking engine with prorated add-seats, vacations and date-scoped cancellations
+  - booking engine with prorated add-seats, vacations, and date-scoped cancellations
   - server-timed trip start and end
   - targeted push notifications
   - Livewire admin panel
@@ -125,7 +125,7 @@ I built the full system: a Laravel backend plus two Flutter apps.
 
 ### 🛒 4YouMart: grocery marketplace
 - Catalog and checkout UX for the customer app on mobile and web.
-- Backend work: idempotent bulk import, POS barcode, stock-in, profit-margin reports, hardened database access and automated SSH deploys.
+- Backend work: idempotent bulk import, POS barcode, stock-in, profit-margin reports, hardened database access, and automated SSH deploys.
 
 **Top features:** 🛍️ Product catalog and search · 🛒 Smooth checkout · 🌐 Mobile and web · 🏷️ Barcode-based stock management · 📈 Profit reports
 
@@ -156,8 +156,8 @@ I built the full system: a Laravel backend plus two Flutter apps.
 
 ### 🧠 Nawaa (formerly Amlood): mental health consultations
 - Session booking with the Checkout payment gateway and OTP auth.
-- Two apps: a **client app** for booking sessions and a **consultant app** with wallet, biometric login and availability management.
-- Crashlytics with a network interceptor that flags any API slower than 3 seconds.
+- Two apps: a **client app** for booking sessions and a **consultant app** with wallet, biometric login, and availability management.
+- Crashlytics with a network interceptor that flags any API call slower than 3 seconds.
 
 **Top features:** 📅 Book sessions with specialists · 💳 Secure online payment · 📲 OTP login · 🔔 Appointment notifications · 🔒 Biometric login for consultants
 
